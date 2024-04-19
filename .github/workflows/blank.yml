@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: This is an exceptionally and surprisingly long name for a GitHub Actions step that probably exceeds practical needs but serves to demonstrate the upper limits of verbosity in workflow definitions.
+name: '{"task": "build", "details": {"language": "JavaScript", "framework": "React"}, "timestamp": "2024-04-18T12:00:00Z"}'
 
 # Controls when the workflow will run
 on:
